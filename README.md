@@ -87,11 +87,7 @@ This may happen due to unsupported JavaScript syntax (like optional chaining `?.
 ---
 
 ## 📁 Folder Structure (Optional)
-
----
----
-
-\`\`\`
+```
 bash
 my-app/
 ├── public/
@@ -104,7 +100,7 @@ my-app/
 ├── .gitignore
 ├── package.json
 └── README.md
-\`\`\`
+```
 
 ---
 
