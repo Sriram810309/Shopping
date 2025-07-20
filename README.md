@@ -88,7 +88,11 @@ This may happen due to unsupported JavaScript syntax (like optional chaining `?.
 
 ## 📁 Folder Structure (Optional)
 
-\`\`\`bash
+---
+---
+
+\`\`\`
+bash
 my-app/
 ├── public/
 ├── src/
